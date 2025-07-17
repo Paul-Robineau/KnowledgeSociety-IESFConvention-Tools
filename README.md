@@ -1,6 +1,6 @@
 # KnowledgeSociety IESFConvention Tools
 
-This work has been done in the context of the organization of the IESF (*Ingénieurs et Scientifiques de France*) Scientific Convention named "From knowledge construction to its reception by the civil society", which will follow the model  of the Citizen Conventions - More information available [here](https://conventions.iesf.fr/convention-connaissances/home) (in French).
+This work has been done in the context of the organization of the IESF (*Ingénieurs et Scientifiques de France*) Scientific Convention named "From knowledge construction to its reception by the civil society", which will follow the model  of the Citizen Conventions - more information available [here](https://conventions.iesf.fr/convention-connaissances/home) (in French).
 
 ## Objective
 
