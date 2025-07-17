@@ -67,13 +67,13 @@ pip install name_of_library
 
 ## Use the Jupyter Notebooks
 
-2.  Activate the environment:
+1.  Activate the environment:
 
 ```
 conda activate da
 ```
 
-3. Launch Jupyter Lab:
+2. Launch Jupyter Lab:
 
 ```
 jupyter-lab
