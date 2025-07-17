@@ -13,7 +13,9 @@ This repository stores the Jupyter Notebooks developped to manage:
 
 ## Notes on advancement
 
-25/07/17: For now, only the Jupyter Notebook for the **Objective 2** is available. Furthermore, its internal documentation is only available in French. The FR/ENG Jupyter Notebooks for the **Objective 1** & **Objective 2** will be available in the near future.
+25/07/17 
+
+>For now, only the Jupyter Notebook for the **Objective 2** is available. Furthermore, its internal documentation is only available in French. The FR/ENG Jupyter Notebooks for the **Objective 1** & **Objective 2** will be available in the near future.
 
 ## Structure
 
@@ -23,7 +25,7 @@ Each of them incorporates a bloc of code that can generate an adequate random sa
 
 ## Requirements
 
-### Python environment manager.
+### Python environment manager
 
 We suggest you to use Miniconda:
 
