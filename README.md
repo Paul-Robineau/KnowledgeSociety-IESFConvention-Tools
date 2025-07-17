@@ -1,0 +1,2 @@
+# KnowledgeSociety IESFConvention Tools
+ This repository stores the Jupyter Notebooks developped to manage (a) drawing lots to create a list of convention participants respecting the representativeness criteria selected by the convention steering committee and (b) drawing lots to create thematic working groups respecting the preferences expressed by the convention participants' individual majority judgments and minimizing gender disparities within the groups.
