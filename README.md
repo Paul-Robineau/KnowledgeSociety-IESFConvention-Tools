@@ -57,7 +57,7 @@ conda activate da
 conda install pandas numpy pulp random math tdqm matplotlib seaborn jupyterlab
 ```
 
-Some libraries may require you to use  the`pip` manager instead of conda. In that case, use the command:
+Some libraries may require you to use  the `pip` manager instead of conda. In that case, use the command:
 
 ```
 pip install name_of_library
