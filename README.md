@@ -13,7 +13,11 @@ This repository stores the Jupyter Notebooks developped to manage:
 
 ## Notes on advancement
 
-2025/07/17 
+2025/08
+
+>The Jupyter Notebook for the **Objective 1** is available. Its internal documentation is only available in French. The FR/ENG Jupyter Notebooks for the **Objective 1** & **Objective 2** will be available in the near future.
+
+2025/07 
 
 >For now, only the Jupyter Notebook for the **Objective 2** is available. Furthermore, its internal documentation is only available in French. The FR/ENG Jupyter Notebooks for the **Objective 1** & **Objective 2** will be available in the near future.
 
